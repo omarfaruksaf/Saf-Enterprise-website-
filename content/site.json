@@ -1,0 +1,38 @@
+{
+  "phone": "+8801644333138",
+  "phoneDisplay": "+880 1644-333138",
+  "email": "saf.safenterprise@gmail.com",
+  "address": "238 Satarkul Road, North Badda, Dhaka-1212",
+  "whatsapp": "https://wa.me/8801644333138",
+  "heroEyebrow": "Dhaka, Bangladesh — Est. Interior Specialist",
+  "heroHeadline": "Transforming spaces with <em>quality</em> interior solutions",
+  "heroSubheadline": "Professional Thai Aluminum, Glass, Gypsum Board, ACP Cladding and Interior Decoration services delivered across Bangladesh — from first sketch to final finish.",
+  "aboutText1": "SAF Enterprise is a trusted Interior & Decoration company specializing in Thai Aluminum Works, Glass Partitions, Gypsum Ceilings, ACP Cladding, Office Interior Design and complete residential & commercial interior solutions.",
+  "aboutText2": "We provide innovative, durable and aesthetically pleasing interior solutions using premium-quality materials and professional workmanship — delivering projects that combine functionality, beauty and long-term value.",
+  "services": [
+    { "tag": "Mat.01", "title": "Thai Aluminum Works", "description": "High-quality Thai aluminum fabrication and installation for doors, windows and framing systems." },
+    { "tag": "Mat.02", "title": "Glass Door & Partition", "description": "Modern glass doors, office partitions and commercial glass solutions." },
+    { "tag": "Mat.03", "title": "Gypsum Board Ceiling", "description": "Stylish gypsum ceiling designs for offices and homes." },
+    { "tag": "Mat.04", "title": "ACP / Alucobond Cladding", "description": "Premium ACP cladding for exterior and interior finishing." },
+    { "tag": "Space.01", "title": "Office Interior Design", "description": "Professional office space planning and complete interior solutions." },
+    { "tag": "Space.02", "title": "Home Interior Design", "description": "Modern residential interior decoration services for every room." },
+    { "tag": "Mat.05", "title": "Aluminum Frame & Glass", "description": "Strong aluminum frame structures with integrated glass installation." },
+    { "tag": "Space.03", "title": "Commercial Interiors", "description": "Interior construction solutions for shops, showrooms and commercial projects." }
+  ],
+  "testimonials": [
+    { "quote": "Excellent workmanship and professional service. Highly recommended for any interior project.", "name": "Rafiqul Islam", "role": "Homeowner, North Badda" },
+    { "quote": "Delivered our office interior project on time with outstanding quality from start to finish.", "name": "Nusrat Jahan", "role": "Operations Manager, Dhaka" },
+    { "quote": "Very reliable company with competitive pricing and excellent finishing on every detail.", "name": "Shahriar Kabir", "role": "Showroom Owner, Badda" }
+  ],
+  "gallery": [
+    { "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=80", "title": "Corporate Headquarters, Gulshan", "category": "office" },
+    { "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=80", "title": "Executive Suite Glazing", "category": "glass" },
+    { "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?auto=format&fit=crop&w=900&q=80", "title": "North Badda Residence", "category": "home" },
+    { "image": "https://images.unsplash.com/photo-1615873968403-89e068629265?auto=format&fit=crop&w=900&q=80", "title": "Gypsum Ceiling — Retail Showroom", "category": "ceiling" },
+    { "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=900&q=80", "title": "Commercial Façade, Badda", "category": "acp" },
+    { "image": "https://images.unsplash.com/photo-1449247613801-ab06418e2861?auto=format&fit=crop&w=900&q=80", "title": "Thai Aluminum Window System", "category": "aluminum" },
+    { "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=900&q=80", "title": "Open-Plan Workspace Fit-Out", "category": "office" },
+    { "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?auto=format&fit=crop&w=900&q=80", "title": "Living Room Renovation", "category": "home" },
+    { "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=900&q=80", "title": "Showroom Glass Frontage", "category": "glass" }
+  ]
+}
